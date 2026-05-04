@@ -17,7 +17,7 @@ CARLODGE est une plateforme web de vente de voitures d'occasion et neuves, déve
 
 ## 🛠️ Technologies Utilisées
 
-- **Backend** : Python (Flask/Django) + SQLite
+- **Backend** : Python Flask + SQLite
 - **Frontend** : HTML, CSS, JavaScript
 - **Base de données** : SQLite
 - **Styling** : Design moderne avec animations et effets visuels
